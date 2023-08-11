@@ -5,13 +5,11 @@ int main() {
     printf("enter age :");
     scanf("%d", &age);
 
-
     if(age > 18) {
         printf("adult \n");
     }
     else {
         printf("not adult \n");
     }
-    printf("new");
     return 0;
 }
