@@ -19,4 +19,3 @@ int main() {
     "w" = open to write
     "wb" = open to write in binary
     "a" = open to append */
-
